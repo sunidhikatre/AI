@@ -1,0 +1,27 @@
+📌 What is GPT?
+GPT stands for Generative Pre-trained Transformer.
+It is a type of Large Language Model (LLM) developed by OpenAI that uses deep learning and transformer 
+architecture to understand and generate human-like text.
+
+📖 How GPT Works:
+Generative → It can generate new text, complete sentences, answer questions, write articles, and more.
+
+Pre-trained → Before being fine-tuned for specific tasks, it’s trained on a huge amount of general text data 
+(like books, articles, web content) to learn language patterns and context.
+
+Transformer → It uses the transformer neural network architecture, which is designed for efficiently handling 
+sequence data (like text) by focusing attention on important words or phrases within the input.
+
+
+
+📌 What is an Image Diffusion Model?
+An image diffusion model is a type of generative AI model that creates new images by starting with random noise and gradually refining it into a clear, meaningful image through a step-by-step denoising process.
+
+📖 How Does It Work?
+Start with pure random noise (like static on a TV screen).
+
+The model gradually removes the noise in multiple steps, guided by learned patterns from real images during training.
+
+At each step, the image gets a bit clearer until it eventually resembles a realistic image matching the desired prompt or condition.
+
+Think of it like developing a photo in a darkroom — starting from a hazy image and slowly bringing it into focus.
