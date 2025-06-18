@@ -1,0 +1,15 @@
+Azure ML Designer is a no-code/low-code, drag-and-drop tool within Azure Machine Learning that lets you build, train, 
+and deploy machine learning models visually — without writing code. It’s especially useful for beginners, data analysts, or fast prototyping.
+
+What You Can Do with Azure ML Designer:
+Import and preprocess data
+
+Drag and drop ML algorithms and modules
+
+Train and validate models
+
+Evaluate model performance
+
+Deploy trained models as web services
+
+Build ML pipelines visually
