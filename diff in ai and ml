@@ -1,0 +1,21 @@
+AI (Artificial Intelligence) is a broad field focused on making machines mimic human intelligence, like reasoning, decision-making, language understanding, and perception. ML (Machine Learning) is a subset of AI that enables systems to learn patterns from data and improve over time without explicit programming.
+
+Apart from ML, AI includes:
+
+Expert Systems (rule-based decision-making)
+
+Search & Optimization algorithms
+
+Planning systems (action sequences to achieve goals)
+
+Natural Language Processing (NLP) (understanding human language)
+
+Computer Vision (interpreting images/videos)
+
+Fuzzy Logic (approximate reasoning)
+
+Evolutionary Algorithms (optimization via simulated evolution)
+
+Robotics (AI-powered physical systems)
+
+In short: All ML is AI, but not all AI is ML. AI covers many other techniques beyond data-driven learning.
