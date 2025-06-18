@@ -1,0 +1,12 @@
+Difference Between SLM (Small Language Model) and LLM (Large Language Model)
+A Large Language Model (LLM) is a type of foundational AI model trained on massive volumes of text data,
+often containing billions to hundreds of billions of parameters. It’s capable of understanding and generating human-like text for a wide variety 
+of complex tasks such as long-form content generation, question answering, coding assistance, translation, and reasoning. 
+Because of their large size, LLMs typically require powerful cloud 
+infrastructure and GPUs to run efficiently and are deployed through cloud APIs or enterprise servers.
+
+On the other hand, a Small Language Model (SLM) is a compact, lightweight version of a language model, 
+typically containing millions to a few billion parameters. It’s optimized for faster inference, lower memory consumption,
+and running on limited-resource environments like mobile devices, browsers, or edge servers. While SLMs might not match the broad reasoning 
+and language capabilities of LLMs, they are highly efficient for specific, narrow tasks such as text classification, summarization, simple chatbots,
+voice assistants, and offline AI applications.
