@@ -1,0 +1,35 @@
+Machine Learning (ML) is a branch of Artificial Intelligence (AI)
+that focuses on developing systems that can learn from data, identify patterns,
+and make decisions or predictions without being explicitly programmed for every task.
+
+Instead of hardcoding rules, ML systems use algorithms to process data, learn relationships or trends within it,
+and improve their performance over time as they encounter more data.
+
+Azure machine learning:
+Azure Machine Learning (Azure ML) is a cloud-based platform from Microsoft that helps data scientists and developers build, train, deploy, 
+and manage machine learning models quickly and efficiently. 
+It simplifies the end-to-end machine learning lifecycle and integrates MLOps (Machine Learning Operations) practices for managing models in production.
+
+Key Features:
+Data Preparation → Clean, transform, and explore data
+
+Model Training & Experimentation → Train models using AutoML, custom scripts, or notebooks
+
+Model Deployment → Deploy models as APIs or containers (AKS, Azure Functions, or Edge)
+
+Model Monitoring → Track model performance, drift, and health
+
+MLOps Integration → Automate workflows, manage models, and enable CI/CD for ML
+
+Supports multiple languages and frameworks → Python, R, TensorFlow, PyTorch, Scikit-learn, etc.
+
+
+ML lifecycle:
+
+Define problem
+Data Collection
+Split Dataset
+Select Baseline Algo
+Train and test
+Evaluate
+Refine Dataset
