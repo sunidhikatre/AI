@@ -10,3 +10,6 @@ typically containing millions to a few billion parameters. It’s optimized for 
 and running on limited-resource environments like mobile devices, browsers, or edge servers. While SLMs might not match the broad reasoning 
 and language capabilities of LLMs, they are highly efficient for specific, narrow tasks such as text classification, summarization, simple chatbots,
 voice assistants, and offline AI applications.
+
+LLM = Large, versatile, cloud-run, complex tasks
+SLM = Small, fast, local/edge-run, simpler tasks
