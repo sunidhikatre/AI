@@ -1,0 +1,40 @@
+Absolutely — here’s a clear, short revision-style list of all major Machine Learning types with quick descriptions:
+
+📌 Types of Machine Learning
+1️⃣ Supervised Learning
+Definition: The model learns from labeled data (data with correct answers provided).
+
+Goal: Predict output for new, unseen data.
+
+Examples: Spam detection, house price prediction.
+
+2️⃣ Unsupervised Learning
+Definition: The model learns patterns from unlabeled data (no predefined answers).
+
+Goal: Discover hidden patterns or groupings.
+
+Examples: Customer segmentation, anomaly detection.
+
+3️⃣ Semi-Supervised Learning
+Definition: Combines a small amount of labeled data with a large amount of unlabeled data.
+
+Goal: Improve learning accuracy when labeled data is scarce.
+
+Examples: Image classification with few labeled images.
+
+4️⃣ Reinforcement Learning
+Definition: The model learns by interacting with an environment, receiving rewards or penalties based on actions.
+
+Goal: Learn the best actions to maximize cumulative rewards.
+
+Examples: Game playing bots, self-driving cars.
+
+🎯 In short:
+Supervised → labeled data
+
+Unsupervised → unlabeled data
+
+Semi-Supervised → mix of labeled & unlabeled
+
+Reinforcement → learns via trial & reward
+
