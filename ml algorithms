@@ -1,0 +1,61 @@
+Machine Learning Problem Types
+🟢 1️⃣ Classification
+What it is: Predicts a category/label from a set of predefined classes.
+
+Output: Discrete values (Yes/No, Spam/Not Spam, Cat/Dog).
+
+Examples:
+
+Email spam detection
+
+Disease prediction (Positive/Negative)
+
+Sentiment analysis (Positive/Negative/Neutral)
+
+Algorithms: Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, XGBoost.
+
+🟣 2️⃣ Regression
+What it is: Predicts a continuous numeric value.
+
+Output: Real numbers (like price, temperature, or age).
+
+Examples:
+
+House price prediction
+
+Stock market forecasting
+
+Weather temperature prediction
+
+Algorithms: Linear Regression, Decision Tree Regression, Random Forest Regression, Gradient Boosting.
+
+🔵 3️⃣ Clustering
+What it is: Groups similar data points together without predefined labels.
+
+Output: Cluster IDs (like Cluster 1, Cluster 2…)
+
+Examples:
+
+Customer segmentation
+
+Document grouping
+
+Market basket analysis
+
+Algorithms: K-Means, DBSCAN, Hierarchical Clustering, Gaussian Mixture Models (GMM).
+
+🟡 4️⃣ Anomaly Detection (Outlier Detection)
+What it is: Identifies rare or unusual data points that don’t conform to normal patterns.
+
+Output: Normal or Anomaly
+
+Examples:
+
+Credit card fraud detection
+
+Network intrusion detection
+
+Fault detection in machines
+
+Algorithms: Isolation Forest, One-Class SVM, DBSCAN (for density-based anomaly), Autoencoders (in Deep Learning)
+
