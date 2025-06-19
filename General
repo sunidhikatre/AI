@@ -5,11 +5,20 @@ learn patterns, and make predictions by adjusting internal connections.
 Prompt Engineering:
 Prompt Engineering = smartly designing your input to guide the AI’s output in the direction you want.
 Prompt Engineering is the smart, structured, and intentional way of designing that input so the AI gives you:
-
 Better quality results
-
 Relevant, clear, and accurate outputs
-
 Responses in your desired format
-
 It’s not about changing the model — it’s about changing how you ask.
+
+
+Self Supervised Learning
+Does Self-Supervised Learning (SSL) Need to Learn a Lot First?
+✅ Yes — Self-Supervised Learning works best when trained on a large amount of unlabeled data.
+Why? Because its strength comes from recognizing patterns, structures, and relationships within raw data without explicit labels. The more diverse and extensive the data it sees during pretraining, the better it can learn general-purpose, meaningful features.
+
+📖 How It Typically Works:
+Train the model on huge amounts of unlabeled data using pretext tasks (like predicting masked words, missing image parts, or future audio)
+During this stage, the model builds strong, general representations
+Later, those learned representations are either:
+Fine-tuned for specific tasks with smaller amounts of labeled data (like text classification or image recognition)
+Or directly used for downstream tasks with minimal extra training
