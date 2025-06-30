@@ -1,0 +1,41 @@
+ What is Self-Attention?
+Self-attention is a mechanism that allows each word (or token) in a sequence to look at and weigh the importance of other words in the same sequence when producing its own representation.
+
+📖 Why is it needed?
+Because the meaning of a word often depends on other words in the sentence.
+For example:
+
+"The bank was flooded after the heavy rains."
+
+‘Bank’ here means river bank, not a financial institution — and to understand that, the model needs to pay attention to ‘flooded’ and ‘heavy rains’.
+
+Self-attention helps the model decide which other words matter most for each word when encoding meaning.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+   What is an Encoder?
+Part of the Transformer architecture.
+
+Takes the input sequence (like a sentence) and processes it through multiple layers.
+
+Uses self-attention to understand relationships between words.
+
+Converts the input into a context-rich vector representation.
+
+Output: a numerical representation capturing the meaning of the entire input.
+
+✅ What is a Decoder?
+Also part of the Transformer architecture.
+
+Takes the encoder’s output (context vectors) and generates the output sequence (like a translation) one token at a time.
+
+Uses masked self-attention to look at previous output tokens.
+
+Uses cross-attention to look at the encoder’s context when deciding the next word.
+
+Output: the final translated/generated sequence.
+
+📊 In one line:
+Encoder = Understands and compresses the input
+Decoder = Generates the output based on that understanding
