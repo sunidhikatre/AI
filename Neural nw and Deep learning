@@ -1,0 +1,38 @@
+A neural network is a type of machine learning model inspired by the human brain. It consists of layers of interconnected nodes (called neurons) that process data.
+
+How it learns (in short):
+
+Input data is passed through the network.
+
+Each connection has a weight, and each neuron applies a function (usually a weighted sum + activation).
+
+The network makes a prediction.
+
+The prediction is compared to the actual result using a loss function (which measures the error).
+
+The network adjusts its weights via a method called backpropagation, using gradient descent to minimize the error.
+
+This repeats over many data examples (epochs) until the network learns the correct patterns.
+
+In essence:
+➡️ Predict → Compare → Adjust → Repeat.
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+Deep learning:
+Deep Learning is a specialized subset of machine learning where algorithms are structured in multiple layers of neural networks to automatically learn patterns from large amounts of data.
+
+The term "deep" refers to the many hidden layers (not just 1 or 2) in the network. These deep layers enable the system to learn increasingly complex features — for example:
+
+First layers might learn edges in an image.
+
+Deeper layers might learn shapes, then faces, then identities.
+
+Key features of Deep Learning:
+
+No need for manual feature extraction — the network learns features on its own.
+
+Requires large datasets and powerful hardware (like GPUs).
+
+Uses techniques like CNNs (Convolutional Neural Networks) for images, RNNs (Recurrent Neural Networks) for sequences, and Transformers for language.
