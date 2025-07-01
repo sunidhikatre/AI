@@ -1,0 +1,24 @@
+📌 What is Agentic AI?
+Agentic AI refers to AI systems that act as autonomous agents — meaning they can:
+
+Make decisions
+
+Pursue goals
+
+Take actions in the world
+
+Adapt their behavior based on feedback
+
+These systems are designed to plan, reason, and act with a degree of independence, rather than just passively responding to prompts.
+
+It’s different from traditional AI (like a chatbot answering your question) because Agentic AI proactively decides what to do next to achieve a given objective.
+
+
+📌 Types of Agentic AI (Simple Summary)
+Type	                            What it means                                                             	Example
+Simple Agent               Acts based on predefined rules or immediate perception, without memory.	      Thermostat turning on a fan if hot
+Model-Based Agent	         Has an internal model of the world, uses it to reason and predict outcomes.	  Self-driving car predicting traffic
+Goal-Based Agent	         Chooses actions to achieve a specific goal, often via planning.              	AI navigating a maze to reach an exit
+Utility-Based Agent	      Chooses actions to maximize a utility (preference or score) function.	          AI recommending movies based on ratings
+Learning-Based Agent	    Learns from experience, improves behavior over time via data.	                  AI learning to play chess through games
+Hierarchical Agent        Organizes goals and actions into a hierarchy (big goal → subgoals → actions).	  AI project manager breaking tasks into steps
